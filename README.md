@@ -1,3 +1,6 @@
+# ShowHeroes
+- v1.1.0 Forked and updated to support Laravel 6, 7, 8
+
 # Note
 
 I haven't updated this package in a long time except merging PRs. The last time I was using this package was with PHP5.
